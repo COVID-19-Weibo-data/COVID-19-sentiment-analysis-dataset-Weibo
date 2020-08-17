@@ -5,7 +5,7 @@ We performed sentiment analysis on Weibo posts related to COVID-19. Therefore, w
 
 After carefully validation, we form the sentiment analysis data set that consists of 21,173 Weibo posts falling into 7 sentiment categories, e.g., anger, disgust, fear, optimism, sadness, surprise, and gratitude. The number of posts for each category of sentiment is shown in the following table:
 
-|Label|Number|
+|Sentiment category|Number|
 |:----:|:----:|
 |Fear|3227|
 |Anger|3175|
