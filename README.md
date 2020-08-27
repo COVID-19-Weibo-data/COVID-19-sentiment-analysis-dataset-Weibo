@@ -1,8 +1,8 @@
 # COVID-19-sentiment-analysis-dataset-Weibo
 ## Sentiment Analysis on Chinese Weibo regarding COVID-19
-###Unlabeled Weibo Data
+### Unlabeled Weibo Data
 
-###Labeled Weibo Data
+### Labeled Weibo Data
 
 We performed sentiment analysis on Weibo posts related to COVID-19. Therefore, we constructed the COVID-19 sentiment analysis dataset that consists of the following three parts, including NLPCC sentiment analysis dataset, emotional conversation dataset provided by the team of Professor Huang of Tsinghua University and our own annotated dataset. Instead of using coarse feeling, in this work, we annotated the Weibo posts by 7 fine-grained feelings, i.e., fear, anger, disgust, sadness, gratitude, surprise, and optimism.
 
